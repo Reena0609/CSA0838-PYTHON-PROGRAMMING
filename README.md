@@ -17,3 +17,6 @@
 16.program for party
 17.program for seasons
 18.program to find simple interest
+19.Program for remove words
+20.program to find average of 5 subjects and grades
+21.Program for regular experssion
