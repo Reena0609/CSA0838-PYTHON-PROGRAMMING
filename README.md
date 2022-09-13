@@ -9,7 +9,7 @@
 8.program to find area of circle
 9.program for basic calculator
 10.program to convert cel to far
-11.program for digits and characters
+11.program for phone display
 12.program to find greatest among 3 numbers
 13.program to check leap year or not
 14.program for maximum words
