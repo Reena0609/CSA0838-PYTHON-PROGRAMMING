@@ -21,3 +21,4 @@
 20.program to find average of 5 subjects and grades
 21.Program for regular experssion
 22.program to find the area of water container
+25.Program for sorted string vowels
