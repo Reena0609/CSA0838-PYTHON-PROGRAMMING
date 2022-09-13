@@ -28,3 +28,4 @@
 29.program for good pairs
 30.Program for Binary addition
 31.Proram for merge sorted list
+32.Program for projecting
