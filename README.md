@@ -1,5 +1,5 @@
 # CSA0838-PYTHON-PROGRAMMING  These Python programs are very helpful to know about python progrmming language and we can gain some  knowledge through it and we can develop our skills.
-1. Program for isisomorphic
+1. Program for isomorphic
 2. program for sum of squares 
 3. program for happy
 4. program to check palindrome number
@@ -21,23 +21,23 @@
 20. program to find average of 5 subjects and grades
 21. Program for regular experssion
 22. program to find the area of water container
-25. Program for sorted string vowels
-26. Program for replacement of characters
-27. Program for share trading
-28. program for mirror image
-29. program for good pairs
-30. Program for Binary addition
-31. Program for merge sorted list
-32. Program for projecting
-33. Program for permutations
-34. Program for finding min Jumpings
-35. Program for anagrams
-36. Program to min operations
-37. Program deleting characters
-38. Program to convert roman to integers
-39. Program for string 1-index
-40. Program for scramble string
-41. Program to find minimum no of steps
-42. Program to find many numbers smaller than current number
-43. Program for student users in college
-44. Program to find valid palindrome
+23. Program for sorted string vowels
+24. Program for replacement of characters
+25. Program for share trading
+26. program for mirror image
+27. program for good pairs
+28. Program for Binary addition
+29. Program for merge sorted list
+30. Program for projecting
+31. Program for permutations
+32. Program for finding min  no of Jumpings
+33. Program for anagrams
+34. Program to min operations
+35. Program deleting characters
+36. Program to convert roman to integers
+37. Program for string 1-index
+38. Program for scramble string
+39. Program to find minimum no of steps
+40. Program to find many numbers smaller than current number
+41. Program for student users in college
+42. Program to find valid palindrome
