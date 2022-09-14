@@ -33,3 +33,6 @@
 34.Program for finding min Jumpings
 35.Program for anagrams
 36.Program to min operations
+37.Program deleting characters
+38.Program to convert roman to integers
+39.Program for string 1-index
