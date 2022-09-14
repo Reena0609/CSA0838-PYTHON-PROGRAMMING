@@ -29,3 +29,4 @@
 30.Program for Binary addition
 31.Proram for merge sorted list
 32.Program for projecting
+33.Program for permutations
