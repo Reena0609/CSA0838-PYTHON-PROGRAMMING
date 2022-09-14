@@ -32,3 +32,4 @@
 33.Program for permutations
 34.Program for finding min Jumpings
 35.Program for anagrams
+36.Program to min operations
