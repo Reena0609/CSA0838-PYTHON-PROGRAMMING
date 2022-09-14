@@ -36,3 +36,4 @@
 37.Program deleting characters
 38.Program to convert roman to integers
 39.Program for string 1-index
+40.Program for scramble string
