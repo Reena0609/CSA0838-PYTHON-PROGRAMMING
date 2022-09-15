@@ -46,3 +46,6 @@
 45. program for peek element
 46. program for shuffled list
 47. program for count repeating characters
+48. Program for divide both numbers
+49. Program to find employee salary bonus
+50.Program for reverse word
