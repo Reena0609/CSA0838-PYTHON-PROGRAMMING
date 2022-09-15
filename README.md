@@ -45,3 +45,4 @@
 44. program for triangular array
 45. program for peek element
 46. program for shuffled list
+47. program for count repeating characters
