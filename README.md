@@ -41,3 +41,7 @@
 40. Program to find many numbers smaller than current number
 41. Program for student users in college
 42. Program to find valid palindrome
+43. program for perfect square number
+44. program for triangular array
+45. program for peek element
+46. program for shuffled list
