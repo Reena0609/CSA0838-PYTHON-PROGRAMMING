@@ -54,3 +54,4 @@
 53. Program to reverse a number
 54 Program for vote eligiblity
 55. Program for factorial number
+56. Program to find arthematic operations
