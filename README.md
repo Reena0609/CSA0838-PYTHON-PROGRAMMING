@@ -51,4 +51,4 @@
 50. Program for reverse word
 51. Program to find length of lost words
 52. Program for a valid chess board
-53. Program to reversea number
+53. Program to reverse a number
